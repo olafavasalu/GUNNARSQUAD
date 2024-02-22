@@ -1,5 +1,5 @@
 # GUNNARSQUAD
-Gunnar Peipmann programmeerimisblogi fanpage
+
 Oleme alustav käsitööõllede pruulikoda. Meie eesmärk on toetada tootearendust IT-lahenduste abil. Esimese sammuna soovime jäädvustada proovipruulide saamisloo. Süsteem on mõeldud ettevõttesiseseks kasutamiseks ning juurdepääsuks on vajalik kasutajakonto.  
 
   
